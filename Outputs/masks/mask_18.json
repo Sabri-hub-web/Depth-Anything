@@ -1,0 +1,20 @@
+{
+  "segment_id": 18,
+  "mean_depth": 0.9852632284164429,
+  "depth_std": 0.03909769281744957,
+  "depth_band": "front",
+  "min_depth": 0.8260174989700317,
+  "max_depth": 1.0,
+  "num_pixels": 221,
+  "area_ratio": 0.0025,
+  "centroid": [
+    0.068,
+    0.3486
+  ],
+  "bbox": [
+    0.03,
+    0.3289,
+    0.0675,
+    0.0578
+  ]
+}
